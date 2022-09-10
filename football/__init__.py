@@ -1,4 +1,4 @@
-from .mycog import MyCog
+from .football import MyCog
 
 
 def setup(bot):
